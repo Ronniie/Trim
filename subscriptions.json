@@ -173,5 +173,20 @@
     "darkPatternNote": null,
     "sharable": true,
     "sharableNote": "Family supports up to 5 members."
-  }
+  },
+  "siriusxm": {
+    "name": "SiriusXM",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sirius_XM_logo_2023.svg/960px-Sirius_XM_logo_2023.svg.png",
+    "category": "Streaming",
+    "billingCycle": "Monthly",
+    "plans": [
+      { "name": "All Music", "price": { "USD": 11.99} },
+      { "name": "All Access", "price": { "USD": 25.99 } },
+      { "name": "Podcasts+", "price": { "USD": 5.99 } }
+    ],
+    "darkPattern": false,
+    "darkPatternNote": null,
+    "sharable": false,
+    "sharableNote": null
+  },
 }
