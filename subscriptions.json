@@ -70,6 +70,35 @@
     "sharable": true,
     "sharableNote": "Up to 3 simultaneous streams."
   },
+  "apple one": {
+    "name": "Apple One",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Apple_One.svg/960px-Apple_One.svg.png",
+    "category": "Productivity",
+    "billingCycle": "Monthly",
+    "plans": [
+      { "name": "Individual", "price": { "USD": 19.95 } },
+      { "name": "Family", "price": { "USD": 25.95 } },
+      { "name": "Premier", "price": { "USD": 37.95 } }
+    ],
+    "darkPattern": false,
+    "darkPatternNote": null,
+    "sharable": true,
+    "sharableNote": "Included with Family Sharing for up to 5 members."
+  },
+  "apple care": {
+    "name": "Apple Care",
+    "logo": "https://www.apple.com/v/applecare/c/images/overview/hero/logo_apple_care__ethb3t26w2ye_large_2x.png",
+    "category": "Other",
+    "billingCycle": "Monthly",
+    "plans": [
+      { "name": "AppleCare+ with Theft and Loss", "price": { "USD": 9.99 } },
+      { "name": "AppleCare One", "price": { "USD": 19.99 } }
+    ],
+    "darkPattern": false,
+    "darkPatternNote": null,
+    "sharable": false,
+    "sharableNote": null
+  },
   "apple tv": {
     "name": "Apple TV",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Apple_TV_logo.svg/960px-Apple_TV_logo.svg.png",
