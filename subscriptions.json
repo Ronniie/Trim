@@ -1,0 +1,148 @@
+{
+  "netflix": {
+    "name": "Netflix",
+    "logo": "https://static.cdnlogo.com/logos/n/1/netflix-icon-2016_800.png",
+    "category": "Streaming",
+    "billingCycle": "Monthly",
+    "plans": [
+      { "name": "Standard with Ads", "price": { "USD": 7.99 } },
+      { "name": "Standard", "price": { "USD": 17.99 } },
+      { "name": "Premium", "price": { "USD": 24.99 } }
+    ],
+    "darkPattern": false,
+    "darkPatternNote": null,
+    "sharable": true,
+    "sharableNote": "Standard supports 2 devices. Premium supports 4 devices."
+  },
+  "disney+": {
+    "name": "Disney+",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Disney_Plus_logo.svg/960px-Disney_Plus_logo.svg.png",
+    "category": "Streaming",
+    "billingCycle": "Monthly",
+    "plans": [
+      { "name": "Basic (With Ads)", "price": { "USD": 7.99 } },
+      { "name": "Premium", "price": { "USD": 13.99 } }
+    ],
+    "darkPattern": false,
+    "darkPatternNote": null,
+    "sharable": true,
+    "sharableNote": "Premium supports 4 concurrent streams."
+  },
+  "max": {
+    "name": "Max",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Max_logo.svg/960px-Max_logo.svg.png",
+    "category": "Streaming",
+    "billingCycle": "Monthly",
+    "plans": [
+      { "name": "With Ads", "price": { "USD": 9.99 } },
+      { "name": "Ad-Free", "price": { "USD": 15.99 } },
+      { "name": "Ultimate Ad-Free", "price": { "USD": 19.99 } }
+    ],
+    "darkPattern": false,
+    "darkPatternNote": null,
+    "sharable": true,
+    "sharableNote": "Ultimate Ad-Free supports 4 concurrent streams."
+  },
+  "amazon prime": {
+    "name": "Amazon Prime",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Amazon_Prime_logo_%282022%29.svg/960px-Amazon_Prime_logo_%282022%29.svg.png",
+    "category": "Streaming",
+    "billingCycle": "Monthly",
+    "plans": [
+      { "name": "Monthly", "price": { "USD": 14.99 } },
+      { "name": "Annual", "price": { "USD": 139.00 } }
+    ],
+    "darkPattern": false,
+    "darkPatternNote": null,
+    "sharable": true,
+    "sharableNote": "Prime benefits can be shared with one additional adult via Amazon Household."
+  },
+  "prime video": {
+    "name": "Prime Video",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Amazon_Prime_Video_logo_%282024%29.svg/960px-Amazon_Prime_Video_logo_%282024%29.svg.png",
+    "category": "Streaming",
+    "billingCycle": "Monthly",
+    "plans": [
+      { "name": "Standalone", "price": { "USD": 8.99 } }
+    ],
+    "darkPattern": false,
+    "darkPatternNote": null,
+    "sharable": true,
+    "sharableNote": "Up to 3 simultaneous streams."
+  },
+  "apple tv": {
+    "name": "Apple TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Apple_TV_logo.svg/960px-Apple_TV_logo.svg.png",
+    "category": "Streaming",
+    "billingCycle": "Monthly",
+    "plans": [
+      { "name": "Standard", "price": { "USD": 12.99 } }
+    ],
+    "darkPattern": false,
+    "darkPatternNote": null,
+    "sharable": true,
+    "sharableNote": "Included with Family Sharing for up to 6 members."
+  },
+  "spotify": {
+    "name": "Spotify",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2024_Spotify_logo_without_text.svg/960px-2024_Spotify_logo_without_text.svg.png",
+    "category": "Music",
+    "billingCycle": "Monthly",
+    "plans": [
+      { "name": "Student", "price": { "USD": 6.99 } },
+      { "name": "Individual", "price": { "USD": 12.99 } },
+      { "name": "Duo", "price": { "USD": 18.99 } },
+      { "name": "Family", "price": { "USD": 21.99 } }
+    ],
+    "darkPattern": false,
+    "darkPatternNote": null,
+    "sharable": true,
+    "sharableNote": "Family supports up to 6 accounts."
+  },
+  "apple music": {
+    "name": "Apple Music",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Apple_Music_Logo.png",
+    "category": "Music",
+    "billingCycle": "Monthly",
+    "plans": [
+      { "name": "Student", "price": { "USD": 5.99 } },
+      { "name": "Individual", "price": { "USD": 10.99 } },
+      { "name": "Family", "price": { "USD": 16.99 } }
+    ],
+    "darkPattern": false,
+    "darkPatternNote": null,
+    "sharable": true,
+    "sharableNote": "Family plan supports up to 6 members."
+  },
+  "chatgpt": {
+    "name": "ChatGPT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OpenAI_logo_2025_%28symbol%29.svg/960px-OpenAI_logo_2025_%28symbol%29.svg.png",
+    "category": "Productivity",
+    "billingCycle": "Monthly",
+    "plans": [
+      { "name": "Go", "price": { "USD": 8.00 } },
+      { "name": "Plus", "price": { "USD": 20.00 } },
+      { "name": "Pro", "price": { "USD": 200.00 } },
+      { "name": "Business", "price": { "USD": 30.00 } }
+    ],
+    "darkPattern": false,
+    "darkPatternNote": null,
+    "sharable": false,
+    "sharableNote": null
+  },
+  "youtube premium": {
+    "name": "YouTube Premium",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/YouTube_Premium_logo.svg/500px-YouTube_Premium_logo.svg.png",
+    "category": "Streaming",
+    "billingCycle": "Monthly",
+    "plans": [
+      { "name": "Lite", "price": { "USD": 7.99} },
+      { "name": "Individual", "price": { "USD": 13.99 } },
+      { "name": "Family", "price": { "USD": 22.99 } }
+    ],
+    "darkPattern": false,
+    "darkPatternNote": null,
+    "sharable": true,
+    "sharableNote": "Family supports up to 5 members."
+  }
+}
